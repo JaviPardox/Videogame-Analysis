@@ -1,4 +1,4 @@
-# Pandas Challenge
+# Pandas game analysis
 
 ## Heroes Of Pymoli
 This scrip runs through purchase_data.csv which holds the data of the players name, age, and gender. It also holds the data of items and their price. 
